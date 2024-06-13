@@ -1,8 +1,3 @@
-# CS1004-Object Oriented Programming 
- CS1004 Object Oriented Programming | Spring 2024 | Dr Bilal Khan
-Certainly! Here's a README template for your CS1004 - Object Oriented Programming repository:
-
----
 
 # CS1004 - Object Oriented Programming
 
